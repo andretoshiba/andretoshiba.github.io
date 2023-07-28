@@ -4,7 +4,9 @@
 <body>
 
 <b>9 BOX TALENT MANAGEMENT</b>
-<P>SETTINGS</P>
+<P>
+	<b>SETTING</b>
+</P>
 <table border= "1">
 	<tr style="background-color: green;">
        
