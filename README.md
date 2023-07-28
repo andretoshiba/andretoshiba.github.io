@@ -5,7 +5,7 @@
 
 <b>9 BOX TALENT MANAGEMENT</b>
 <P>SETTINGS</P>
-<table border = "1">
+<table border= "1">
 	<tr style="background-color: green;">
        
 
@@ -110,7 +110,7 @@
 
 <p>
 
-<table border = "1">
+<table border= "1">
 	<tr style="background-color: green;">
 
 <th> EVALUATION LEVELS</th>
