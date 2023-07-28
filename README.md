@@ -5,7 +5,7 @@
 
 9 BOX TALENT MANAGEMENT
 <P>SETTINGS</P>
-<table border = "1">
+<table = "1">
 	<tr style="background-color: green;">
        
 
