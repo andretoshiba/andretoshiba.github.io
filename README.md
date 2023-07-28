@@ -110,7 +110,7 @@
 
 <p>
 
-<table border = "1">
+<table = "1">
 	<tr style="background-color: green;">
 
 <th> EVALUATION LEVELS</th>
