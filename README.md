@@ -1,14 +1,7 @@
 # andretoshiba.github.io
 <html>
 
-	<title>9 BOX TALENT MANAGEMENT</title>
-<head>
-
-
-</head>
 <body>
-
-
 
 9 BOX TALENT MANAGEMENT
 <P>SETTINGS</P>
