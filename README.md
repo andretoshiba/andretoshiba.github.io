@@ -28,7 +28,7 @@
 </tr>
 
 <tr>
-<td> Badan Kepengawaian dan Pengembangan Sumber Daya Manusia</td>
+<td> Badan Kepegawaian dan Pengembangan Sumber Daya Manusia</td>
 <td> Kepala Badan</td>
 <td> Pimpinan Tinggi Pratama</td>
 <th> DELAPAN</th>
